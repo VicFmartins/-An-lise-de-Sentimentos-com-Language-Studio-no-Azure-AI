@@ -1,1 +1,9 @@
 # -An-lise-de-Sentimentos-com-Language-Studio-no-Azure-AI
+
+Neste projeto de análise de sentimentos utilizando o Azure AI Speech Studio, explorei diversas técnicas para compreender a polaridade das sentenças e extrair insights valiosos dos dados textuais. O processo foi dividido em várias etapas:
+
+Preparação dos Dados: Iniciei criando uma pasta chamada 'inputs' no repositório, onde adicionei um documento de texto com uma variedade de sentenças. Essas sentenças foram fundamentais para treinar o modelo de análise de sentimentos.
+Configuração do Azure AI Speech Studio: Utilizei o Azure AI Speech Studio para implementar a análise de sentimentos. Configurar a conexão com o Language Studio foi simples e intuitivo, permitindo-me acessar poderosas ferramentas de processamento de linguagem natural.
+Execução da Análise de Sentimentos: Após configurar o ambiente, executei a análise de sentimentos nas sentenças do documento de texto. O Language Studio forneceu resultados precisos, categorizando as sentenças em positivas, neutras e negativas com base no contexto e no tom das palavras.
+Resultados e Insights: Os resultados da análise de sentimentos foram apresentados de forma clara e visual no README.md do repositório. Pude observar padrões interessantes, como a predominância de sentimentos positivos em sentenças relacionadas a experiências de compra e a presença de sentimentos neutros em descrições técnicas.
+Possibilidades Futuras: Com base nesses resultados, identifiquei diversas possibilidades para aprimorar o modelo, como a inclusão de mais dados de treinamento para melhorar a precisão da análise, a integração com APIs de redes sociais para análise de sentimentos em tempo real e a implementação de técnicas avançadas de processamento de linguagem natural para detectar sarcasmo e ironia.
