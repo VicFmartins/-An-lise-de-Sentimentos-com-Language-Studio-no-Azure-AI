@@ -60,7 +60,7 @@ Defina:
 - `AZURE_LANGUAGE_KEY`
 - `AZURE_LANGUAGE_ENDPOINT`
 
-Base pronta em [.env.example](C:/Users/vitor/OneDrive/Documentos/Playground/repo-language-studio-sentimentos/.env.example).
+Base pronta em [.env.example](.env.example).
 
 Sem essas variaveis, a API roda no modo `local_heuristic`, ideal para portfolio e testes locais. Com elas, o projeto passa a chamar o endpoint oficial de analise de sentimento do Azure AI Language.
 
